@@ -1,4 +1,5 @@
-# CslCs108LinuxJavaApp
+# CS108-Linux-Java-App
+
 CS108 Linux Java Bluetooth Demo App and SDK
 
 This application provides demonstrations to the programming interface made available on the CS108 handheld reader for configuring, controlling, and accessing the RFID reader. The development was based on the CS108 Java API for the Ubuntu Linux desktop.
